@@ -1,0 +1,754 @@
+﻿Municipio;tipo_geografia
+Medellín;Urbano
+Bello;Urbano
+Bogotá, D.C.;Urbano
+Rionegro;Urbano
+Sabaneta;Urbano
+Itagüí;Urbano
+Santa Rosa De Cabal;Urbano
+Pereira;Urbano
+Copacabana;Urbano
+Buenaventura;Urbano
+La Ceja;Urbano
+Calarcá;Urbano
+Envigado;Urbano
+Barranquilla;Urbano
+Cartagena De Indias;Urbano
+Soacha;Urbano
+Funza;Urbano
+Soledad;Urbano
+Dosquebradas;Urbano
+Turbo;Urbano
+Apartadó;Urbano
+Bucaramanga;Urbano
+Montería;Urbano
+Manizales;Urbano
+Villavicencio;Urbano
+Armenia;Urbano
+Cali;Urbano
+Quibdó;Urbano
+Pasto;Urbano
+Cúcuta;Urbano
+Florencia;Urbano
+Riohacha;Urbano
+Santa Marta;Urbano
+Sincelejo;Urbano
+Tunja;Urbano
+Yopal;Urbano
+Valledupar;Urbano
+Ibagué;Urbano
+Neiva;Urbano
+Sogamoso;Urbano
+Villamaría;Urbano
+Santa Rosa De Osos;Urbano
+Girardot;Urbano
+Girón;Urbano
+Chía;Urbano
+Zipaquirá;Urbano
+Villanueva;Urbano
+San José Del Guaviare;Urbano
+Puerto Asís;Urbano
+Popayán;Urbano
+El Carmen De Viboral;rural
+Segovia;rural
+San Luis;rural
+San Juan De Urabá;rural
+Andes;rural
+Belmira;rural
+La Dorada;rural
+Campamento;rural
+Remedios;rural
+El Santuario;rural
+Entrerríos;rural
+El Bagre;rural
+Santa Fé De Antioquia;rural
+Puerto Triunfo;rural
+Amalfi;rural
+Salgar;rural
+Anzá;rural
+Anorí;rural
+Girardota;rural
+Marinilla;rural
+Angostura;rural
+Mosquera;rural
+Guarne;rural
+La Unión;rural
+Yolombó;rural
+Retiro;rural
+Donmatías;rural
+Ituango;rural
+Guadalupe;rural
+Caldas;rural
+Angelópolis;rural
+Urrao;rural
+Támesis;rural
+Puerto Boyacá;rural
+Jericó;rural
+Carepa;rural
+Betulia;rural
+La Estrella;rural
+San Roque;rural
+San Jerónimo;rural
+Barbosa;rural
+Abejorral;rural
+Altamira;rural
+Briceño;rural
+Tarazá;rural
+Peñol;rural
+Sopetrán;rural
+Concordia;rural
+Sonsón;rural
+Liborina;rural
+Granada;rural
+Sabanalarga;rural
+Heliconia;rural
+Jardín;rural
+Argelia;rural
+La Tebaida;rural
+Caicedo;rural
+Ebéjico;rural
+Titiribí;rural
+San Francisco;rural
+Montebello;rural
+San Carlos;rural
+Yarumal;rural
+Caucasia;rural
+Concepción;rural
+El Castillo;rural
+Mutatá;rural
+Chigorodó;rural
+Ciudad Bolívar;rural
+Cisneros;rural
+Cota;rural
+Cocorná;rural
+Pueblorrico;rural
+Cereté;rural
+San Antonio Del Tequendama;rural
+Candelaria;rural
+Cáceres;rural
+Dabeiba;rural
+Cucutilla;rural
+Hispania;rural
+El Paso;rural
+Valdivia;rural
+Puerto Nare;rural
+Amagá;rural
+Peque;rural
+Cañasgordas;rural
+Nariño;rural
+San Vicente Ferrer;rural
+Carolina;rural
+Santa Bárbara;rural
+Puerto Colombia;rural
+Giraldo;rural
+Caramanta;rural
+Puerto Berrío;rural
+Fonseca;rural
+Vegachí;rural
+Maceo;rural
+Mesetas;rural
+La Pintada;rural
+Necoclí;rural
+Duitama;Urbano
+Madrid;Urbano
+Paipa;Urbano
+Fusagasugá;Urbano
+Nechí;Urbano
+Arjona;Urbano
+Barrancabermeja;Urbano
+Planeta Rica;Urbano
+Magangué;Urbano
+Carmen De Carupa;Urbano
+Facatativá;Urbano
+Circasia;Urbano
+Melgar;Urbano
+Buenavista;Urbano
+Galapa;Urbano
+María La Baja;Urbano
+Turbaco;Urbano
+Morales;Urbano
+Ciénaga;Urbano
+Aguadas;Urbano
+Dibulla;Urbano
+Campohermoso;Urbano
+Chiquinquirá;Urbano
+Nobsa;Urbano
+Barrancas;Urbano
+Montelíbano;Urbano
+Bosconia;Urbano
+Aguachica;Urbano
+Ipiales;Urbano
+Manzanares;Urbano
+El Banco;Urbano
+Zarzal;Urbano
+Pitalito;Urbano
+Espinal;Urbano
+Piedecuesta;Urbano
+Garzón;Urbano
+San Vicente Del Caguán;Urbano
+Oiba;Urbano
+El Retén;Urbano
+La Plata;Urbano
+Aguazul;Urbano
+Monterrey;Urbano
+La Cumbre;Urbano
+Palermo;Urbano
+Planadas;Urbano
+San Onofre;Urbano
+Samaná;Urbano
+Curumaní;Urbano
+Zaragoza;Urbano
+Achí;Urbano
+Santa Ana;Urbano
+Fundación;Urbano
+Yotoco;Urbano
+San Juan Del Cesar;Urbano
+Albania;Urbano
+Santa Bárbara;Urbano
+Cajicá;Urbano
+Samaniego;Urbano
+Floridablanca;Urbano
+Yumbo;Urbano
+Puerto López;Urbano
+Neira;Urbano
+Gigante;Urbano
+Quimbaya;Urbano
+Aranzazu;Urbano
+La Calera;Urbano
+La Dorada;Urbano
+Belén;Urbano
+Bolívar;Urbano
+Mocoa;Urbano
+Arauca;Urbano
+Leticia;Urbano
+Mitú;Urbano
+Inírida;Urbano
+San Pedro;rural
+San Pedro De Los Milagros;rural
+Santo Domingo;rural
+Acacías;rural
+Gómez Plata;rural
+San Andrés De Cuerquía;rural
+Juan De Acosta;rural
+Risaralda;rural
+Betania;rural
+Alejandría;rural
+San Rafael;rural
+San José De La Montaña;rural
+Clemencia;rural
+Sutatausa;rural
+San Pedro De Urabá;rural
+Santa Rosa De Lima;rural
+Toca;rural
+Tuta;rural
+Guayatá;rural
+Belén;rural
+Samacá;rural
+Pivijay;rural
+Quípama;rural
+Baranoa;rural
+El Rosal;rural
+Puerto Libertador;rural
+Tauramena;rural
+Lorica;rural
+Yondó;rural
+Sabanagrande;rural
+Hatonuevo;rural
+Venecia;rural
+Tibú;rural
+Lérida;rural
+Zarzal;rural
+La Montañita;rural
+Cabuyaro;rural
+Dibulla;rural
+Boavita;rural
+Turbaco;rural
+Morales;rural
+Yalí;rural
+Santa Rosa Del Sur;rural
+Soracá;rural
+Cimitarra;rural
+Manzanares;rural
+Algarrobo;rural
+Astrea;rural
+Paratebueno;rural
+San Andrés De Sotavento;rural
+Tenjo;rural
+La Sierra;rural
+Mercaderes;rural
+Miraflores;rural
+Valencia;rural
+Simijaca;rural
+Zipacón;rural
+Anolaima;rural
+San Lorenzo;rural
+Los Patios;rural
+Salento;rural
+Filandia;rural
+Montenegro;rural
+Morroa;rural
+San Marcos;rural
+Puerto Parra;rural
+Villapinzón;rural
+San Antonio;rural
+Alcalá;rural
+Palmira;rural
+Cartago;rural
+Yotoco;rural
+Maní;rural
+Maicao;rural
+Tame;rural
+Vistahermosa;rural
+Versalles;rural
+Pijao;rural
+Natagaima;rural
+Restrepo;rural
+Malambo;rural
+Viterbo;rural
+Barranca De Upía;rural
+Puerto Gaitán;rural
+Abriaquí;rural
+Suesca;rural
+Boyacá;rural
+Cajicá;rural
+Moniquirá;rural
+Sesquilé;rural
+La Vega;rural
+Arauquita;rural
+Tarso;rural
+Pesca;rural
+Coper;rural
+La Apartada;rural
+Chiriguaná;rural
+Samaná;rural
+Tierralta;rural
+Arboletes;rural
+Córdoba;rural
+Pueblo Nuevo;rural
+La Palma;rural
+Sahagún;rural
+San Bernardo Del Viento;rural
+Ayapel;rural
+Coyaima;rural
+Caicedonia;rural
+Yumbo;rural
+Cumaral;rural
+Mapiripán;rural
+Puerto López;rural
+Puerto Concordia;rural
+Quimbaya;rural
+Santa Ana;rural
+Anserma;rural
+Guachetá;rural
+Distracción;rural
+San Andrés;rural
+Santa Rosa De Viterbo;rural
+Fredonia;rural
+Chaparral;rural
+Matanza;rural
+Aracataca;rural
+Roldanillo;rural
+Frontino;rural
+El Peñol;rural
+Puerto Tejada;rural
+La Virginia;rural
+Chocontá;rural
+Buriticá;rural
+Santo Tomás;rural
+Nuevo Colón;rural
+Vigía Del Fuerte;rural
+Chimichagua;rural
+Ciénega;rural
+Guatapé;rural
+Subachoque;rural
+Olaya;rural
+Tabio;rural
+Consacá;rural
+Bahía Solano;rural
+Guamal;rural
+Cucaita;rural
+Bolívar;rural
+Valparaíso;rural
+Tocancipá;rural
+Istmina;rural
+Firavitoba;rural
+Oiba;rural
+Colombia;rural
+Zambrano;rural
+Aquitania;rural
+San Cristóbal;rural
+Cubarral;rural
+El Carmen De Atrato;rural
+San Onofre;rural
+Belalcázar;rural
+Atrato;rural
+San Juan De Arama;rural
+El Cerrito;rural
+Villavicencio;rural
+Carmen De Apicalá;rural
+El Molino;rural
+Silvania;rural
+Soatá;rural
+Anapoima;rural
+Santiago;rural
+Agrado;rural
+Tarqui;rural
+Pupiales;rural
+La Argentina;rural
+San Sebastián De Buenavista;rural
+San Vicente De Chucurí;rural
+Otanche;rural
+Jenesano;rural
+Marulanda;rural
+Sardinata;rural
+Santa Isabel;rural
+El Roble;rural
+Bajo Baudó;rural
+San Agustín;rural
+Bochalema;rural
+Cunday;rural
+La Jagua Del Pilar;rural
+Güepsa;rural
+Yacopí;rural
+Guateque;rural
+Suan;rural
+Murillo;rural
+San Benito Abad;rural
+Sucre;rural
+San Luis De Sincé;rural
+Los Córdobas;rural
+Pensilvania;rural
+San Estanislao;rural
+Ráquira;rural
+Timaná;rural
+Gramalote;rural
+Pinchote;rural
+Cantagallo;rural
+Contadero;rural
+Ulloa;rural
+Santa María;rural
+Roncesvalles;rural
+Pore;rural
+Pisba;rural
+Prado;rural
+La Playa De Belén;rural
+Pedraza;rural
+San Mateo;rural
+El Peñón;rural
+Santa Catalina;rural
+Villagómez;rural
+Timbío;rural
+Talaigua Nuevo;rural
+Sandoná;rural
+Hobo;rural
+Paz De Ariporo;rural
+Puracé;rural
+Cumaribo;rural
+Puerto Carreño;rural
+Guacarí;rural
+El Águila;rural
+Arauca;rural
+Funes;rural
+La Macarena;rural
+Luruaco;rural
+Santa Helena Del Opón;rural
+Vélez;rural
+San Gil;rural
+Santana;rural
+Norcasia;rural
+Génova;rural
+Coello;rural
+Guasca;rural
+Silvia;rural
+Sopó;rural
+Valle De San José;rural
+Ginebra;rural
+La Mesa;rural
+Nueva Granada;rural
+Susa;rural
+Murindó;rural
+Trujillo;rural
+Chámeza;rural
+Pacho;rural
+Socotá;rural
+Saravena;rural
+Capitanejo;rural
+El Cairo;rural
+Pácora;rural
+Puerto Leguízamo;rural
+Polonuevo;rural
+El Retorno;rural
+Sutamarchán;rural
+Tibacuy;rural
+Marsella;rural
+Soacha;rural
+Sotaquirá;rural
+Villeta;rural
+Sabana De Torres;rural
+Tinjacá;rural
+Labranzagrande;rural
+San Luis De Palenque;rural
+San José Del Fragua;rural
+San Pedro De Cartago;rural
+Condoto;rural
+Útica;rural
+Ciénaga;rural
+Barbacoas;rural
+Ramiriquí;rural
+Cerinza;rural
+Motavita;rural
+Belén De Umbría;rural
+Turbaná;rural
+Corrales;rural
+Guática;rural
+Balboa;rural
+Bugalagrande;rural
+Obando;rural
+Ansermanuevo;rural
+Trinidad;rural
+Guaico;rural
+Guaduas;rural
+San Vicente Del Caguán;rural
+Tota;rural
+Uramita;rural
+Chíquiza;rural
+Marquetalia;rural
+Aguazul;rural
+Simití;rural
+Honda;rural
+La Victoria;rural
+La Gloria;rural
+Mitú;rural
+Monguí;rural
+Santiago De Tolú;rural
+San Miguel De Sema;rural
+Sutatenza;rural
+Yavaraté;rural
+Betéitiva;rural
+Chinavita;rural
+La Uvita;rural
+Ciénaga De Oro;rural
+Rivera;rural
+Manatí;rural
+San José;rural
+Cicuco;rural
+Nemocón;rural
+Santa Rosa;rural
+Fresno;rural
+Vianí;rural
+Usiacurí;rural
+Soplaviento;rural
+Belén De Bajirá;Urbano
+La Jagua De Ibirico;Urbano
+Villa De San Diego De Ubaté;Urbano
+Chinchiná;Urbano
+Sibaté;Urbano
+Manaure;Urbano
+Santander De Quilichao;Urbano
+Ponedera;Urbano
+Unguía;Urbano
+Tubará;Urbano
+Cómbita;Urbano
+Floresta;Urbano
+Corinto;Urbano
+Palmar De Varela;Urbano
+Cumbal;Urbano
+Mahates;Urbano
+Icononzo;Urbano
+San José De Miranda;Urbano
+El Carmen De Bolívar;rural
+Toledo;rural
+Riosucio;rural
+Becerril;rural
+Puerto Salgar;rural
+Acandí;rural
+Cajibío;rural
+Rosas;rural
+Filadelfia;rural
+Cachipay;rural
+El Carmen;rural
+Unión Panamericana;rural
+Uribia;rural
+El Carmen De Chucurí;rural
+Guadalajara De Buga;rural
+Apía;rural
+Mompós;rural
+Caracolí;rural
+Ovejas;rural
+Chibolo;rural
+Marmato;rural
+Zona Bananera;rural
+Pailitas;rural
+Puerto Nariño;rural
+San Martín;rural
+San Pablo Sur;rural
+Ricaurte;rural
+Chinú;rural
+Chivatá;rural
+Saboyá;rural
+Oicatá;rural
+Siachoque;rural
+Calamar;rural
+Tibasosa;rural
+Cravo Norte;rural
+Tibaná;rural
+Iza;rural
+Piendamó - Tunía;rural
+Salamina;rural
+Supía;rural
+Caldono;rural
+Jamundí;rural
+Corozal;rural
+La Paz;rural
+Santuario;rural
+Gachancipá;rural
+Tadó;rural
+Supatá;rural
+Puerto Rico;rural
+Tasco;rural
+Caloto;rural
+Ventaquemada;rural
+Pelaya;rural
+Tuluá;rural
+Pradera;rural
+Milán;rural
+Lejanías;rural
+Sáchica;rural
+Muzo;rural
+San Luis De Gaceno;rural
+El Copey;rural
+Uribe;rural
+Villa De Leyva;rural
+Repelón;rural
+Pauna;rural
+San Pelayo;rural
+Suárez;rural
+Palestina;rural
+Patía;rural
+Agustín Codazzi;rural
+Almaguer;rural
+Ocaña;rural
+Canalete;rural
+Medina;rural
+Lenguazaque;rural
+Gama;rural
+Coveñas;rural
+Cáqueza;rural
+Tausa;rural
+Tocaima;rural
+Momil;rural
+Cucunubá;rural
+Guaranda;rural
+Sitionuevo;rural
+Manaure Balcón Del Cesar;rural
+Íquira;rural
+Sevilla;rural
+Calima;rural
+Tello;rural
+Quinchía;rural
+El Zulia;rural
+Cogua;rural
+Venadillo;rural
+Suaza;rural
+Fúquene;rural
+Suaita;rural
+Puerto Escondido;rural
+Dagua;rural
+Gámbita;rural
+Caimito;rural
+Galeras;rural
+Sampués;rural
+Pamplona;rural
+Plato;rural
+Pital;rural
+San Andrés De Tumaco;rural
+Cajamarca;rural
+San Sebastián De Mariquita;rural
+Dolores;rural
+Rioblanco;rural
+Rovira;rural
+Ubaque;rural
+Tolú Viejo;rural
+San Alberto;rural
+Guaca;rural
+Viotá;rural
+Nunchía;rural
+Riofrío;rural
+Recetor;rural
+El Playón;rural
+Chimá;rural
+Flandes;rural
+Villavieja;rural
+Albán;rural
+Policarpa;rural
+Buesaco;rural
+Tutazá;rural
+Victoria;rural
+Armero;rural
+Macanal;rural
+Socorro;rural
+Majagual;rural
+Mongua;rural
+Turmequé;rural
+Pueblo Rico;rural
+Sora;rural
+Guacamayas;rural
+Orocué;rural
+Paz De Río;rural
+San Pablo;rural
+Ábrego;rural
+Cumbal;rural
+Cabrera;rural
+Pachavita;rural
+Toro;rural
+Nilo;rural
+Une;rural
+Ubalá;rural
+Vijes;rural
+Socha;rural
+Úmbita;rural
+Casabianca;rural
+Arcabuco;rural
+San Antero;rural
+Puente Nacional;rural
+Tópaga;rural
+Linares;rural
+Guayabetal;rural
+Maripí;rural
+Carmen Del Darién;rural
+Arenal;rural
+Túquerres;rural
+Nátaga;rural
+San Pablo De Borbur;rural
+Zetaquira;rural
+San José De Uré;rural
+Cartagena Del Chairá;rural
+Chita;rural
+Nuquí;rural
+Pasca;rural
+Durania;rural
+Taraira;rural
+El Tambo;rural
+Líbano;rural
+Fosca;rural
+Bojayá;rural
+Cotorra;rural
+Urumita;rural
+Coromoro;rural
+Onzaga;rural
+Cerrito;rural
+Mogotes;rural
+Choachí;rural
+Falan;rural
+Ortega;rural
+Palocabildo;rural
+San Jacinto;rural
+Jerusalén;rural
+Campo De La Cruz;rural
+Ragonvalia;rural
+Pulí;rural
+Cértegui;rural
+Guamo;rural
+Ancuyá;rural
+Moñitos;rural
+Campoalegre;rural
